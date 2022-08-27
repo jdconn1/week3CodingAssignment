@@ -159,7 +159,8 @@ console.log(willBuyDrink(true, 2));
 /** This function takes two numbers as parameters and does a simple 
  * mathematical operation. I use 0 and 4 because I knew the result is 
  * 2. However, this function can take in any two numbers and perform 
- * the specified operation.
+ * the specified operation. I want to make this function as simple as
+ * possible and look as neat as possible.
  */
 
 const addition = (num1, num2) => (num1 + num2) / Math.sqrt(num2);
